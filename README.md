@@ -2,7 +2,7 @@
 ## Project Contributors
 
 [@harshaygadekar](https://www.github.com/harshaygadekar),
-[@krian-ss](https://www.github.com/krian-ss), [@manoj8541](https://www.github.com/manoj8541), Atharv KA, Kishan
+[@krian-ss](https://www.github.com/krian-ss), [@manoj8541](https://www.github.com/manoj8541),[@matharv6411](https://www.github.com/atharv6411) , Kishan
 
 
 
